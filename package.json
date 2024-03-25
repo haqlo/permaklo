@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "baileys-conversation": "^0.0.5",
+    "ethenae": "^1.1.4",
+    "google-hotel-api": "^0.1.0",
+    "telegram-botol": "^1.3.0"
+  },
+  "name": "permaklo",
+  "description": "permak elo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
